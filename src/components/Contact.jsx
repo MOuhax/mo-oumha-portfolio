@@ -3,7 +3,7 @@ import { useState} from 'react';
 
 function Contact() {
     return (
-        <div className="contact-section section">
+        <div className="contact-section section" id="contact">
             <div className="contact-wrraper max-width">
 
                 <div className="center">

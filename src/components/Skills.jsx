@@ -3,7 +3,7 @@ import mern from "../Images/mern.webp"
 
 function Skills() {
     return (
-        <div className="Skills-section section">
+        <div className="Skills-section section" id="skills">
             <div className="skills-wrraper max-width">
                 <div className="title-wrraper">
                     <h2> Skills and tools</h2>

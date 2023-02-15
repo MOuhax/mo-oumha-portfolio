@@ -15,8 +15,10 @@ function Herobanner() {
 
 					</p>
 					<div className="buttonsgroupe flex">
-						<button className="button">Mywork </button>
-						<button className="button">Resum </button>
+						<a className="button" href="#mywork">Mywork </a>
+						
+							<a className="button" href="https://docs.google.com/document/d/1vjDQ0fVUXm3MQYbS62zOqsNZFcONe5pKjDwll0cyrIg/edit?usp=sharing">Resum </a>
+							
 					</div>
 					<div className="socielmediagroup">
 

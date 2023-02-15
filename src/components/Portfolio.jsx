@@ -43,7 +43,7 @@ import js30 from "../Images/js30.jpg";
 
 function Portfolio() {
     return (
-        <div className="portfolio-section section ">
+        <div className="portfolio-section section " id="mywork">
             <div className="portfolio-wrraper max-width">
                 <div>
                     <div className="title-wrraper">

@@ -16,7 +16,7 @@ import js30 from "../Images/js30.jpg";
 
 function Sideprojects() {
     return (
-        <div className="sideprojects-section section ">
+        <div className="sideprojects-section section " id="projects">
             <div className="sideprojects-wrraper max-width">
            
             <div >

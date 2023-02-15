@@ -3,7 +3,7 @@ import labtop from "../Images/Mo-oumha-macBook.webp"
 
 export default function About() {
     return (
-        <div className="about-section bg-white section">
+        <div className="about-section bg-white section" id="about">
 
             <div className="about-wrraper flex max-width">
                 <div className="flex-30">

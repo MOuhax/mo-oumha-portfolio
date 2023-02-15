@@ -5,7 +5,7 @@ import blog3 from "../Images/blog3.jpg";
 
 function Blog() {
     return (
-        <div className="blog-section section ">
+        <div className="blog-section section " id="blog">
             <div className="blog-wrraper max-width">
             
             <div>

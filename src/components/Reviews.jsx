@@ -2,7 +2,7 @@ import React from "react";
 
 function Reviews() {
     return (
-        <div className="Reviews-section section">
+        <div className="Reviews-section section" id="reviews">
             <div className="reviews-wrraper max-width">
                 <div className="title-wrraper">
                     <h2> Client Reviews
