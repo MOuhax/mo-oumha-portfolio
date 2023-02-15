@@ -30,27 +30,27 @@ function Herobanner() {
 							</span>
 
 							<span class="grid-item">
-								<a class="icon social-icon  animation-shrink repeater-item-599b985" href="https://www.linkedin.com/in/mooumha/" target="_blank" bis_skin_checked="1">
+								<a class="icon social-icon  animation-shrink repeater-item-599b985" href="https://twitter.com/medoumha" target="_blank" bis_skin_checked="1">
 
 								<FaTwitter />		
 								</a>
 							</span>
 
 							<span class="grid-item">
-								<a class="icon social-icon  animation-shrink repeater-item-599b985" href="https://www.linkedin.com/in/mooumha/" target="_blank" bis_skin_checked="1">
+								<a class="icon social-icon  animation-shrink repeater-item-599b985" href="https://www.youtube.com/@moshopifyexpert" target="_blank" bis_skin_checked="1">
 
 								<FaYoutube />
 								</a>
 							</span>
 
 							<span class="grid-item">
-								<a class="icon social-icon  animation-shrink repeater-item-599b985" href="https://www.linkedin.com/in/mooumha/" target="_blank" bis_skin_checked="1">
+								<a class="icon social-icon  animation-shrink repeater-item-599b985" href="https://www.instagram.com/mo__oumha/" target="_blank" bis_skin_checked="1">
 
 								<FaInstagram />	
 								</a>
 							</span>
 							<span class="grid-item">
-								<a class="icon social-icon  animation-shrink repeater-item-599b985" href="https://www.linkedin.com/in/mooumha/" target="_blank" bis_skin_checked="1">
+								<a class="icon social-icon  animation-shrink repeater-item-599b985" href="https://github.com/MOuhax" target="_blank" bis_skin_checked="1">
 
 								<FaGithub />	
 								</a>
