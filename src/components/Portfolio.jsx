@@ -22,6 +22,7 @@ import dashboard from "../Images/dashboard.jpg";
 
 import storybook from "../Images/storybook.jpg";
 import gatsby from "../Images/gatsby2.jpg";
+import gatsby1 from "../Images/gatsby1.jpg";
 import starbucks from "../Images/starbucks.jpg";
 
 import netflix from "../Images/netflix.jpg";
@@ -54,7 +55,7 @@ function Portfolio() {
                     <div className="portfolio-wrraper flex">
                         <div className="portfolio-33 flex-30">
                             <div className="portfolio-list">
-                                <img src={theme} alt="" />
+                                <img src={gatsby1} alt="" />
                                 <p className="p-title">➜ Shopify headless e-commerce with Next.js
                                 </p>
                                 <div className="used-skill">
@@ -79,7 +80,7 @@ function Portfolio() {
                                     <span>Liquid</span>
                                     <span>Javascript</span>
                                     <span>Tailwind</span>
-                                    <span>HTML & SCSS</span>
+
 
                                 </div>
                                 <p>Connecting remote developers with founders anywhere in the world
@@ -96,7 +97,7 @@ function Portfolio() {
                                     <span>Node.js</span>
                                     <span>Shopify APIs</span>
                                     <span>MongoDB</span>
-                                    <span>Express.js</span>
+                                    
 
                                 </div>
                                 <p>Connecting remote developers with founders anywhere in the world
@@ -114,7 +115,7 @@ function Portfolio() {
                                     <span>React</span>
                                     <span>MongoDB</span>
                                     <span>Tailwind CSS</span>
-                                    <span>Express.js</span>
+                                   
 
                                 </div>
                                 <p>
@@ -144,7 +145,7 @@ function Portfolio() {
 
                         <div className="portfolio-33  flex-30">
                             <div className="portfolio-list">
-                                <img src={forum} alt="" />
+                                <img src={theme} alt="" />
                                 <p className="p-title">➜ Shopify storefront with Hydrogen</p>
                                 <div className="used-skill">
                                     <span>React</span>

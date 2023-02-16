@@ -30,7 +30,7 @@ function Sideprojects() {
                     <div className="portfolio-33 flex-30">
                         <div className="sideprojects-list">
                             <img src={remotef} alt="" />
-                            <p className="p-title">➜ Remote Folks
+                            <p className="p-title">➜ Remote Folks, a community of Digital nomads
 </p> <p>Co-live, Co-work, and Co-travel the world with a group of like minded remoters </p>
                         </div>
                     </div>
@@ -49,7 +49,7 @@ function Sideprojects() {
                     <div className="portfolio-33  flex-30">
                         <div className="sideprojects-list">
                             <img src={js30} alt="" />
-                            <p className="p-title">➜ 30 days skill challenge
+                            <p className="p-title">➜ 30 days JavaScript challenge
 </p> <p>30 Day Vanilla JS Coding Challenge, Build 30 things in 30 days with 30 tutorials.</p>
                         </div>
                     </div>

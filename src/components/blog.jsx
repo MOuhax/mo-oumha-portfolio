@@ -1,6 +1,6 @@
 import blog1 from "../Images/mypc.jpg";
 import blog2 from "../Images/blog2.jpg";
-import blog3 from "../Images/blog3.jpg";
+import blog3 from "../Images/project6.jpg";
 
 
 function Blog() {

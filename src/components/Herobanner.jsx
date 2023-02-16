@@ -1,5 +1,5 @@
 import React from "react";
-import avatar from "../Images/Mo-oumha-developer.png";
+import avatar from "../Images/Mo-oumha-web-developer.png";
 import { FaLinkedinIn, FaTwitter, FaInstagram, FaYoutube, FaGithub } from "react-icons/fa";
 
 function Herobanner() {
@@ -9,7 +9,7 @@ function Herobanner() {
 				<div className=" flex-50">
 					<p> Hi <span>👋</span> I am Mo Oumha</p>
 
-					<h2> Frontend and Shopify developer</h2>
+					<h2> Web and Shopify developer</h2>
 					<p>I'm an experienced and self-taught software engineer with more than 3 years of experience in full-stack dev. I've been working with the most popular front-end frameworks(Vue and React), and NodeJs on the backend.
 
 

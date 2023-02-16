@@ -8,7 +8,8 @@ function Nav() {
         <div className="navsection  ">
             <div className="nav-wrraper max-width flex">
                 <div className="logowrraper">
-                    <img src={logo} alt="" className="logo-header" />
+                    <a href="/"> <img src={logo} alt="" className="logo-header" /></a>
+                   
                 </div>
 
                 <div className="menuwrraper">

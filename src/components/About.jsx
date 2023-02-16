@@ -11,8 +11,8 @@ export default function About() {
                 </div>
                 <div className="flex-70">
                     
-                    <h2>A location independent freelancer</h2>
-                    <p>I’m a self-taught web developer, WordPress, and Shopify expert who started learning to code back in 2018 after discovering the ‘Digital Nomad’ movement. For the last few years, I’ve worked full-time remotely (mostly for clients from the US, Germany, and the UK). So far, so good. A unique experience with lots of video calls, Slack messages, and nice clients. Here are some of my servics:</p>
+                    <h2>About & services</h2>
+                    <p>I’m a self-taught web developer, and Shopify expert who started learning to code back in 2018 after discovering the ‘Digital Nomad’ movement. For the last few years, I’ve worked full-time remotely (mostly for clients from the US, Germany, and the UK). So far, so good. A unique experience with lots of video calls, Slack messages, and nice clients. Here are some of my servics:</p>
                     <ul className="servicesul">
 
                         <li>
