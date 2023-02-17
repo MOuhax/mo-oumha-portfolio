@@ -7,14 +7,16 @@ import Portfolio from "./components/Portfolio";
 import Reviews from "./components/Reviews";
 import Contact from "./components/Contact";
 import Footer from "./components/Footer";
-import Blog from "./components/blog";
-import Sideprojects from "./components/sideprojects";
+import Blog from "./components/Blog";
+import Sideprojects from "./components/Sideprojects";
+
 
 
 
 function app() {
   return (
     <div className="appclass">
+      
     <Nav/>  
     <Herobanner/>
     

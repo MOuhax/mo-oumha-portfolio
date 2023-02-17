@@ -49,7 +49,7 @@ function Sideprojects() {
                     <div className="portfolio-33  flex-30">
                         <div className="sideprojects-list">
                             <img src={js30} alt="" />
-                            <p className="p-title">➜ 30 days JavaScript challenge
+                            <p className="p-title">➜ Remote Morocco, empowering remote work
 </p> <p>30 Day Vanilla JS Coding Challenge, Build 30 things in 30 days with 30 tutorials.</p>
                         </div>
                     </div>

@@ -30,7 +30,7 @@ function Blog() {
                     <div className="portfolio-33 flex-30">
                         <div className="blog-list">
                             <img src={blog2} alt="" />
-                            <p className="p-title">➜ How to sync products and collections between Airtable and Shopify
+                            <p className="p-title">➜ What is headless e-commerce and why you need to use it?
 
 </p> <p>I’ve been working on a freelance project to sync products and collections data betwen an Airtable an...
 </p>
@@ -40,7 +40,7 @@ function Blog() {
                     <div className="portfolio-33  flex-30">
                         <div className="blog-list">
                             <img src={blog3} alt="" />
-                            <p className="p-title">➜ My journey to build my first Shopify app</p>
+                            <p className="p-title">➜ My setup as a remote Shopify & web developer</p>
                             <p>After launching the beta version of Habitscript and getting great feedback about the idea and I’m st...
 </p>
                         </div>

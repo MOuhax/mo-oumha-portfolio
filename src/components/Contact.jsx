@@ -11,7 +11,7 @@ function Contact() {
                         <h2>Let's Build Something Together</h2>
                         <h4>I’ll make it easy for you… I am available on your favorite channel – I hope to hear from you!
                         </h4>
-                        <p> +212608-166845 / Medoumha@gmail.com / Or google Mo Oumha
+                        <p> +212608-166845 / Medoumha [at] gmail.com / Or google Mo Oumha
 
                         </p>
                     </div>

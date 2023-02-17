@@ -52,7 +52,7 @@ function Portfoliodata() {
 
                     </div>
                     <div className="portfolio-wrraper flex">
-                        <div className="portoflio-33 flex-30">
+                        <div className="portfolio-33 flex-30">
                             <div className="portfolio-list">
                                 <img src={theme} alt="" />
                                 <p className="p-title">➜ Shopify headless e-commerce with Next.js
@@ -69,7 +69,7 @@ function Portfoliodata() {
                             </div>
                         </div>
 
-                        <div className="portoflio-33 flex-30">
+                        <div className="portfolio-33 flex-30">
                             <div className="portfolio-list">
                                 <img src={customTheme} alt="" />
                                 <p className="p-title">➜ Custom Shopify theme for a brand
@@ -87,7 +87,7 @@ function Portfoliodata() {
                             </div>
                         </div>
 
-                        <div className="portoflio-33  flex-30">
+                        <div className="portfolio-33  flex-30">
                             <div className="portfolio-list">
                                 <img src={forum} alt="" />
                                 <p className="p-title">➜ Community forum Shopify app</p>
@@ -110,7 +110,7 @@ function Portfoliodata() {
 
 
                     <div className="portfolio-wrraper flex">
-                        <div className="portoflio-33 flex-30">
+                        <div className="portfolio-33 flex-30">
                             <div className="portfolio-list">
                                 <img src={inventory} alt="" />
                                 <p className="p-title">➜ Products inventory managment app
@@ -131,7 +131,7 @@ function Portfoliodata() {
                             </div>
                         </div>
 
-                        <div className="portoflio-33 flex-30">
+                        <div className="portfolio-33 flex-30">
                             <div className="portfolio-list">
                                 <img src={landingPages} alt="" />
                                 <p className="p-title">➜ Ecommerce heigh converting sales pages
@@ -148,7 +148,7 @@ function Portfoliodata() {
                             </div>
                         </div>
 
-                        <div className="portoflio-33  flex-30">
+                        <div className="portfolio-33  flex-30">
                             <div className="portfolio-list">
                                 <img src={ecommerceApp} alt="" />
                                 <p className="p-title">➜ Fullstack e-commerce App</p>
@@ -167,7 +167,7 @@ function Portfoliodata() {
 
 
                     <div className="portfolio-wrraper flex">
-                        <div className="portoflio-33 flex-30">
+                        <div className="portfolio-33 flex-30">
                             <div className="portfolio-list">
                                 <img src={tiktok} alt="" />
                                 <p className="p-title">➜ Fullstack TikTok application clone 
@@ -187,7 +187,7 @@ function Portfoliodata() {
                             </div>
                         </div>
 
-                        <div className="portoflio-33 flex-30">
+                        <div className="portfolio-33 flex-30">
                             <div className="portfolio-list">
                                 <img src={instagram} alt="" />
                                 <p className="p-title">➜ Instagram tested clone
@@ -204,7 +204,7 @@ function Portfoliodata() {
                             </div>
                         </div>
 
-                        <div className="portoflio-33  flex-30">
+                        <div className="portfolio-33  flex-30">
                             <div className="portfolio-list">
                                 <img src={reddit} alt="" />
                                 <p className="p-title">➜ Reddit clone with Next.js and Firebase</p>
@@ -230,7 +230,7 @@ function Portfoliodata() {
 
 
                     <div className="portfolio-wrraper flex">
-                        <div className="portoflio-33 flex-30">
+                        <div className="portfolio-33 flex-30">
                             <div className="portfolio-list">
                                 <img src={monday} alt="" />
                                 <p className="p-title">➜ Full stack CRM application with MERN 
@@ -250,7 +250,7 @@ function Portfoliodata() {
                             </div>
                         </div>
 
-                        <div className="portoflio-33 flex-30">
+                        <div className="portfolio-33 flex-30">
                             <div className="portfolio-list">
                                 <img src={productivity} alt="" />
                                 <p className="p-title">➜ Productivity managment app for freelancers
@@ -267,7 +267,7 @@ function Portfoliodata() {
                             </div>
                         </div>
 
-                        <div className="portoflio-33  flex-30">
+                        <div className="portfolio-33  flex-30">
                             <div className="portfolio-list">
                                 <img src={crm} alt="" />
                                 <p className="p-title">➜ CRM application with Google sheets</p>
@@ -287,7 +287,7 @@ function Portfoliodata() {
 
 
                     <div className="portfolio-wrraper flex">
-                        <div className="portoflio-33 flex-30">
+                        <div className="portfolio-33 flex-30">
                             <div className="portfolio-list">
                                 <img src={airbnb} alt="" />
                                 <p className="p-title">➜ Real estate Booking application like AirBnb 
@@ -307,7 +307,7 @@ function Portfoliodata() {
                             </div>
                         </div>
 
-                        <div className="portoflio-33 flex-30">
+                        <div className="portfolio-33 flex-30">
                             <div className="portfolio-list">
                                 <img src={dashboard} alt="" />
                                 <p className="p-title">➜ Complete React admin dashboard app with backend
@@ -324,7 +324,7 @@ function Portfoliodata() {
                             </div>
                         </div>
 
-                        <div className="portoflio-33  flex-30">
+                        <div className="portfolio-33  flex-30">
                             <div className="portfolio-list">
                                 <img src={storybook} alt="" />
                                 <p className="p-title">➜Story book react & Next Js application </p>
@@ -345,7 +345,7 @@ function Portfoliodata() {
 
 
                     <div className="portfolio-wrraper flex">
-                        <div className="portoflio-33 flex-30">
+                        <div className="portfolio-33 flex-30">
                             <div className="portfolio-list">
                                 <img src={gatsby} alt="" />
                                 <p className="p-title">➜ Gatsby headless store front with Shopify
@@ -365,7 +365,7 @@ function Portfoliodata() {
                             </div>
                         </div>
 
-                        <div className="portoflio-33 flex-30">
+                        <div className="portfolio-33 flex-30">
                             <div className="portfolio-list">
                                 <img src={starbucks} alt="" />
                                 <p className="p-title">➜ Starbucks app with Firebase & Redux Toolkit
@@ -382,7 +382,7 @@ function Portfoliodata() {
                             </div>
                         </div>
 
-                        <div className="portoflio-33  flex-30">
+                        <div className="portfolio-33  flex-30">
                             <div className="portfolio-list">
                                 <img src={netflix} alt="" />
                                 <p className="p-title">➜ Netflix fullstack project </p>
@@ -401,7 +401,7 @@ function Portfoliodata() {
 
 
                     <div className="portfolio-wrraper flex">
-                        <div className="portoflio-33 flex-30">
+                        <div className="portfolio-33 flex-30">
                             <div className="portfolio-list">
                                 <img src={coworkcafe} alt="" />
                                 <p className="p-title">➜ Cowork spaces and cafes in Morocco 
@@ -421,7 +421,7 @@ function Portfoliodata() {
                             </div>
                         </div>
 
-                        <div className="portoflio-33 flex-30">
+                        <div className="portfolio-33 flex-30">
                             <div className="portfolio-list">
                                 <img src={facebook} alt="" />
                                 <p className="p-title">➜ Facebook with Next.js & Taiwind
@@ -438,7 +438,7 @@ function Portfoliodata() {
                             </div>
                         </div>
 
-                        <div className="portoflio-33  flex-30">
+                        <div className="portfolio-33  flex-30">
                             <div className="portfolio-list">
                                 <img src={travelAgency} alt="" />
                                 <p className="p-title">➜ Travel agency app with reservation system </p>
@@ -465,7 +465,7 @@ function Portfoliodata() {
 
 
                     <div className="portfolio-wrraper flex">
-                        <div className="portoflio-33 flex-30">
+                        <div className="portfolio-33 flex-30">
                             <div className="portfolio-list">
                                 <img src={project2} alt="" />
                                 <p className="p-title">➜ Subscription payment App with stripe 
@@ -486,7 +486,7 @@ function Portfoliodata() {
                             </div>
                         </div>
 
-                        <div className="portoflio-33 flex-30">
+                        <div className="portfolio-33 flex-30">
                             <div className="portfolio-list">
                                 <img src={js30} alt="" />
                                 <p className="p-title">➜ Instant chat/messaging complete app
@@ -503,7 +503,7 @@ function Portfoliodata() {
                             </div>
                         </div>
 
-                        <div className="portoflio-33  flex-30">
+                        <div className="portfolio-33  flex-30">
                             <div className="portfolio-list">
                                 <img src={remotem} alt="" />
                                 <p className="p-title">➜ React blog app with GraphQL </p>
@@ -528,7 +528,7 @@ function Portfoliodata() {
 
 
                     <div className="portfolio-wrraper flex">
-                        <div className="portoflio-33 flex-30">
+                        <div className="portfolio-33 flex-30">
                             <div className="portfolio-list">
                                 <img src={coworkcafe} alt="" />
                                 <p className="p-title">➜ Shopify collection custom filter with Vanilla Js
@@ -549,7 +549,7 @@ function Portfoliodata() {
                             </div>
                         </div>
 
-                        <div className="portoflio-33 flex-30">
+                        <div className="portfolio-33 flex-30">
                             <div className="portfolio-list">
                                 <img src={facebook} alt="" />
                                 <p className="p-title">➜ Modern shopify Hydrogye storefront
@@ -566,7 +566,7 @@ function Portfoliodata() {
                             </div>
                         </div>
 
-                        <div className="portoflio-33  flex-30">
+                        <div className="portfolio-33  flex-30">
                             <div className="portfolio-list">
                                 <img src={travelAgency} alt="" />
                                 <p className="p-title">➜ Shopify custom order page  </p>
@@ -593,7 +593,7 @@ function Portfoliodata() {
 
 
                     <div className="portfolio-wrraper flex">
-                        <div className="portoflio-33 flex-30">
+                        <div className="portfolio-33 flex-30">
                             <div className="portfolio-list">
                                 <img src={coworkcafe} alt="" />
                                 <p className="p-title">➜ 30/30 JavaScript project and games 
@@ -614,7 +614,7 @@ function Portfoliodata() {
                             </div>
                         </div>
 
-                        <div className="portoflio-33 flex-30">
+                        <div className="portfolio-33 flex-30">
                             <div className="portfolio-list">
                                 <img src={facebook} alt="" />
                                 <p className="p-title">➜ Youtube clone with Material UI
@@ -631,7 +631,7 @@ function Portfoliodata() {
                             </div>
                         </div>
 
-                        <div className="portoflio-33  flex-30">
+                        <div className="portfolio-33  flex-30">
                             <div className="portfolio-list">
                                 <img src={travelAgency} alt="" />
                                 <p className="p-title">➜ 7 days 7 React native projects </p>
