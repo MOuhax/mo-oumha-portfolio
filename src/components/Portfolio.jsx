@@ -65,8 +65,8 @@ function Portfolio() {
                                     <span>Tailwind CSS</span>
 
                                 </div>
-                                <p>Connecting remote developers with founders anywhere in the world
-                                </p>
+                                
+                                
                             </div>
                         </div>
 
@@ -83,8 +83,7 @@ function Portfolio() {
 
 
                                 </div>
-                                <p>Connecting remote developers with founders anywhere in the world
-                                </p>
+                             
                             </div>
                         </div>
 
@@ -93,15 +92,15 @@ function Portfolio() {
                                 <img src={ecommerceApp} alt="" />
                                 <p className="p-title">➜ Custom product search function</p>
                                 <div className="used-skill">
-                                    <span>React</span>
-                                    <span>Node.js</span>
+                                    <span>Vanilla Js</span>
+                                    <span>HTML & CSS</span>
                                     <span>Shopify APIs</span>
-                                    <span>MongoDB</span>
+                                    <span>Liquid</span>
                                     
 
                                 </div>
-                                <p>Connecting remote developers with founders anywhere in the world
-                                </p>
+                                
+                               
                             </div>
                         </div>
 
@@ -111,18 +110,14 @@ function Portfolio() {
                                 <p className="p-title">➜ Headless ecommerce with Gatsby
                                 </p>
                                 <div className="used-skill">
-                                    <span>Node.js</span>
+                                    <span>Gatsby</span>
                                     <span>React</span>
-                                    <span>MongoDB</span>
-                                    <span>Tailwind CSS</span>
+                                    <span>Shopify</span>
+                                    <span>CSS</span>
                                    
 
                                 </div>
-                                <p>
-                                Connecting remote developers with founders anywhere in the world
-
-
-                                </p>
+                               
                             </div>
                         </div>
 
@@ -138,8 +133,8 @@ function Portfolio() {
                                     <span>Shopify</span>
 
                                  </div>
-                                <p>Connecting remote developers with founders anywhere in the world
-                                </p>
+                                
+                                
                             </div>
                         </div>
 
@@ -151,16 +146,17 @@ function Portfolio() {
                                     <span>React</span>
                                     <span>Node.js</span>
                                     <span>Shopify APIs</span>
+                                    <span>Hydrogen</span>
 
                                 </div>
-                                <p>Connecting remote developers with founders anywhere in the world
-                                </p>
+                                
+                                
                             </div>
                         </div>
-
                     </div>
-
-
+                    <div className="center btn-container">
+                    <a href="/portfolio" className=" center secondary-button">More work</a>
+                </div>
 
 
 

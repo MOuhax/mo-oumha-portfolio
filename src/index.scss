@@ -60,18 +60,21 @@ h3, h2 {
   -webkit-text-fill-color: transparent;
  
 }
-.button {
-  border-style: solid;
+.herobanner-wrraper h2 {
+    font-size: 40px;
+    @media screen and (max-width: 800px) {
+      font-size: 30px;
+    }
+}
+.button { 
   text-decoration: none;
-    border-width: 1px 1px 1px 1px;
-    border-color: #f4ff99;
-    padding: 10px 25px;
-    border-radius: 5px;
+    padding: 10px 15px;
     color: #3D3C3C;
     font-weight: 600;
     margin-right: 10px;
     text-transform: uppercase;
-    background: #f4ff99;
+    border: 1px solid #aba2a2;
+    border-radius: 0px;
 }
 ul.navul {
   list-style: none;
@@ -85,8 +88,13 @@ ul.navul li a {
   font-weight: 500;
 }
 ul.navul li {
-  color: red;
   padding: 0px 15px;
+  a {
+    color: black;
+    &:hover {
+      color: blue;
+    }
+  }
 }
 .max-width {
   max-width: 1200px;
@@ -149,7 +157,9 @@ align-items: center;
 .languages-wrraper img {
   width: 100%;
 }
-
+.navsection {
+  border-bottom: 1px solid #dedada;
+}
 /* About starts here  */
 .about-wrraper {
   align-items: center;
@@ -175,6 +185,30 @@ ul.servicesul li {
     padding: 0px;
     margin: 0px;
         }
+        .post-container {
+          max-width: 1000px;
+          margin: auto;
+        }
+        .btn-container {
+          margin-top: 40px;
+        }
+        .secondary-button {
+          text-decoration: none;
+    padding: 5px 10px;
+    color: #3D3C3C;
+    font-weight: 600;
+    margin-right: 10px;
+    text-transform: uppercase;
+    border-radius: 0px;
+    border: none;
+    border-bottom: 1px solid #aba2a2;
+          &:hover {
+           color: black;
+          }
+      }
+.blogpost-section .title-wrraper {
+        padding-bottom: 50px;
+    }
 /* portfoio starts here  */
 .portfolio-wrraper, .sideprojects-wrraper, 
 .Reviews-wrraper, .blog-wrraper, .Skills-wrraper  {
@@ -190,18 +224,37 @@ flex-wrap: wrap;
 }
 .portfolio-list, .sideprojects-list, .blog-list {
   padding: 10px;
+  margin-top: 20px;
 }
 .used-skill {
   display: flex;
   flex-wrap: wrap;
 }
 .used-skill span {
-  background-color: wheat;
-  border-radius: 10px;
-  font-size: 13px;
-  padding: 2px 10px;
-  margin-right: 5px;
+  background-color: #f8f8f8;
+    border-radius: 10px;
+    font-size: 13px;
+    padding: 2px 10px;
+    margin-right: 5px;
     margin-top: 7px;
+    color: gray;
+}
+.nightmode {
+  
+  background-color: black;
+  .section {
+    background: black;
+    background-color: black;
+    border-bottom: 1px solid #1c1c1c;
+  }
+  .navul li a, .p-title {
+    color: #fff;
+}
+.service-li {
+  background: #000;
+ 
+}
+
 }
 .p-title {
   color: black;

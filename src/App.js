@@ -15,7 +15,7 @@ import Sideprojects from "./components/Sideprojects";
 
 function app() {
   return (
-    <div className="appclass">
+    <div className="appclass ">
       
     <Nav/>  
     <Herobanner/>

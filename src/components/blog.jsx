@@ -22,8 +22,8 @@ function Blog() {
                         <div className="blog-list">
                             <img src={blog1} alt="" />
                             <p className="p-title">➜ How i learned both JavaScript and German at the same time?
-</p> <p>Yesterday, I watch the webinar from Shopify Partners which explains how you can migrate your Woo-com...
-</p>
+</p> <p>I started learning both human and machine languages at the same time and here is how i did it and what i have learned
+</p> <a href="/blog/How-i-learned-both-JavaScript-and-German-at-the-same-time">Read the article</a>
                         </div>
                     </div>
 
@@ -32,8 +32,8 @@ function Blog() {
                             <img src={blog2} alt="" />
                             <p className="p-title">➜ What is headless e-commerce and why you need to use it?
 
-</p> <p>I’ve been working on a freelance project to sync products and collections data betwen an Airtable an...
-</p>
+</p> <p> Headless commerce is a separation of the front end and back end of an ecommerce application. This architecture offers brands freedom of expression...
+</p><a href="#">Read the article</a>
                         </div>
                     </div>
 
@@ -41,12 +41,16 @@ function Blog() {
                         <div className="blog-list">
                             <img src={blog3} alt="" />
                             <p className="p-title">➜ My setup as a remote Shopify & web developer</p>
-                            <p>After launching the beta version of Habitscript and getting great feedback about the idea and I’m st...
+                            <p>As as remote web & Shopify developer i need professional tools and skills to performe well, here is how i do it 
 </p>
+<a href="#">Read the article</a>
                         </div>
                     </div>
 
                 </div> 
+                <div className="center btn-container">
+                    <a href="/blog" className=" center secondary-button">More posts</a>
+                </div>
             </div>
 
            

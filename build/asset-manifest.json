@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.e716a4ef.css",
-    "main.js": "/static/js/main.43981c0a.js",
+    "main.js": "/static/js/main.6ce1077b.js",
     "static/media/Mo-oumha-macBook.webp": "/static/media/Mo-oumha-macBook.0a9d871fa87b9e09246c.webp",
     "static/media/Mo-oumha-work2.jpg": "/static/media/Mo-oumha-work2.7fd9900ee7e83b8e1400.jpg",
     "static/media/Mo-oumha-work1.jpg": "/static/media/Mo-oumha-work1.381498a9b967d23f3e1a.jpg",
@@ -45,10 +45,10 @@
     "static/media/project3.jpg": "/static/media/project3.6450de95619ce29c33ec.jpg",
     "index.html": "/index.html",
     "main.e716a4ef.css.map": "/static/css/main.e716a4ef.css.map",
-    "main.43981c0a.js.map": "/static/js/main.43981c0a.js.map"
+    "main.6ce1077b.js.map": "/static/js/main.6ce1077b.js.map"
   },
   "entrypoints": [
     "static/css/main.e716a4ef.css",
-    "static/js/main.43981c0a.js"
+    "static/js/main.6ce1077b.js"
   ]
 }

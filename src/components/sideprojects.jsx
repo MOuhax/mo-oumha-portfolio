@@ -18,48 +18,52 @@ function Sideprojects() {
     return (
         <div className="sideprojects-section section " id="projects">
             <div className="sideprojects-wrraper max-width">
-           
-            <div >
-                 <div className="title-wrraper">
-                    <h2>Side projects</h2>
-                    <p>A small gallery of recent projects chosen by me. I’ve done them all together with amazing people from companies around the globe. It’s only a drop in the ocean compared to the entire list. Take a look at some of the my work</p>
+
+                <div >
+                    <div className="title-wrraper">
+                        <h2>Side projects</h2>
+                        <p>I like to build my own ideas and contribute to the world wide web with. Take a look at some of the my side projects.</p>
+
+                    </div>
+
+                    <div className="sideprojects-wrraper flex">
+                        <div className="portfolio-33 flex-30">
+                            <div className="sideprojects-list">
+                                <img src={remotef} alt="" />
+                                <p className="p-title">➜ Remote Folks, a community of Digital nomads
+                                </p> <p>Co-live, Co-work, and Co-travel the world with a group of like minded remoters </p>
+                                <a href="https://remotefolks.co/">Visite the project</a>
+                            </div>
+                        </div>
+
+
+
+                        <div className="portfolio-33  flex-30">
+                            <div className="sideprojects-list">
+                                <img src={youtube} alt="" />
+                                <p className="p-title">➜ Mo - Shopify expert youtube channel
+                                </p>
+                                <p>I do share Shopify content including custom Shopify and app developemnt , features, performance, and more...</p>
+                                <a href="https://www.youtube.com/@moshopifyexpert">Visite my channel</a>
+                            </div>
+                        </div>
+
+                        {/* <div className="portfolio-33  flex-30">
+                            <div className="sideprojects-list">
+                                <img src={remotem} alt="" />
+                                <p className="p-title">➜ Code camp b'Darija
+                                </p> 
+                                <p>Learning web platform, an online community forum, chat rooms, online publications and content that intend to make learning web development accessible to anyone in Morocco. </p>
+                                <a href="#">Visite the project</a>
+                            </div>
+                        </div> */}
+
+                    </div>
+
 
                 </div>
 
-                <div className="sideprojects-wrraper flex">
-                    <div className="portfolio-33 flex-30">
-                        <div className="sideprojects-list">
-                            <img src={remotef} alt="" />
-                            <p className="p-title">➜ Remote Folks, a community of Digital nomads
-</p> <p>Co-live, Co-work, and Co-travel the world with a group of like minded remoters </p>
-                        </div>
-                    </div>
 
-                   
-
-                    <div className="portfolio-33  flex-30">
-                        <div className="sideprojects-list">
-                            <img src={youtube} alt="" />
-                            <p className="p-title">➜ Mo - The shopify developer youtube channel
-</p>
-<p>Build your brand and increase sales with a premium ecommerce experience.</p>
-                        </div>
-                    </div>
-
-                    <div className="portfolio-33  flex-30">
-                        <div className="sideprojects-list">
-                            <img src={js30} alt="" />
-                            <p className="p-title">➜ Remote Morocco, empowering remote work
-</p> <p>30 Day Vanilla JS Coding Challenge, Build 30 things in 30 days with 30 tutorials.</p>
-                        </div>
-                    </div>
-
-                </div>  
-
-                
-            </div> 
-
-            
             </div>
         </div>
     )
