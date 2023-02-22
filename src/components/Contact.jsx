@@ -35,7 +35,7 @@ function Contact() {
     </span>
 
     <span class="grid-item">
-        <a class="icon social-icon  animation-shrink repeater-item-599b985" href="https://www.youtube.com/@moshopifyexpert" target="_blank" bis_skin_checked="1">
+        <a class="icon social-icon  animation-shrink repeater-item-599b985" href="https://www.youtube.com/@moremotedeveloper" target="_blank" bis_skin_checked="1">
 
         <FaYoutube />
         </a>
