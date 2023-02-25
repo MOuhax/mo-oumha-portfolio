@@ -124,11 +124,11 @@ function Portfolio() {
                         <div className="portfolio-33 flex-30">
                             <div className="portfolio-list">
                                 <img src={landingPages} alt="" />
-                                <p className="p-title">➜ Ecommerce heigh converting sales pages
+                                <p className="p-title">➜ Modern 3D product page
                                 </p>
                                 <div className="used-skill">
                                     <span>HTML & SCSS</span>
-                                    <span>WP</span>
+                                    <span>GSAP</span>
                                     <span>Javascript</span>
                                     <span>Shopify</span>
 
@@ -144,7 +144,7 @@ function Portfolio() {
                                 <p className="p-title">➜ Shopify storefront with Hydrogen</p>
                                 <div className="used-skill">
                                     <span>React</span>
-                                    <span>Node.js</span>
+                                    <span>Firebase</span>
                                     <span>Shopify APIs</span>
                                     <span>Hydrogen</span>
 

@@ -33,17 +33,17 @@ function Blog() {
                             <p className="p-title">➜ What is headless e-commerce and why you need to use it?
 
 </p> <p> Headless commerce is a separation of the front end and back end of an ecommerce application. This architecture offers brands freedom of expression...
-</p><a href="#">Read the article</a>
+</p><a href="/blog/headless-ecommerce-with-Shopify">Read the article</a>
                         </div>
                     </div>
 
                     <div className="portfolio-33  flex-30">
                         <div className="blog-list">
                             <img src={blog3} alt="" />
-                            <p className="p-title">➜ My setup as a remote Shopify & web developer</p>
-                            <p>As as remote web & Shopify developer i need professional tools and skills to performe well, here is how i do it 
+                            <p className="p-title">➜ How to be a Shopify developer ?</p>
+                            <p>If you want to become a Shopify developer here is how you can do it
 </p>
-<a href="#">Read the article</a>
+<a href="/blog/How-to-be-a-Shopify-developer">Read the article</a>
                         </div>
                     </div>
 

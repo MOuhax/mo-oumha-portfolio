@@ -1,13 +1,11 @@
 import React from 'react'
 
-const Blogpost = () => {
+const Post2= () => {
   return (
     <div className="blogpost-section section " id="blogpost">
         <div className="title-wrraper center">
-                    <h2>How i learned both JavaScript and German at the same time?
-</h2>
-              
-
+                    <h2> What is headless e-commerce and why you need to use it?
+</h2>   
                 </div> 
 
                 <div className='post-container'>
@@ -55,4 +53,4 @@ const Blogpost = () => {
   )
 }
 
-export default Blogpost
+export default Post2

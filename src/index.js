@@ -3,17 +3,18 @@ import ReactDOM from 'react-dom/client';
 import './index.scss';
 import App from './App';
 import Nopage from './components/Nopage';
-import Portfoliodata from "./components/Portfoliodata";
+import Portfoliopage from "./components/Portfoliopage";
 import Blogpage from './components/Blogpage';
 import Nav from './components/Nav';
 import Footer from './components/Footer';
-import Blogpost from './components/Blogpost';
 
+import Blogpost from './postes/Blogpost';
+import Post1 from './postes/post1';
+import Post2 from './postes/post2';
 
 
 import {createBrowserRouter,
 RouterProvider} from 'react-router-dom';
-import Blog from './components/Blog';
 
 const router = createBrowserRouter ([
   {
@@ -24,17 +25,22 @@ const router = createBrowserRouter ([
   {
     path: "/blog",
     element:<><Nav/> <Blogpage /> <Footer/></>,
-    errorElement:<><Nav/><Nopage/><Footer/></> ,
   },
   {
     path: "/portfolio",
-    element:<><Nav/> <Portfoliodata /> <Footer/></>,
-    errorElement:<><Nav/><Nopage/><Footer/></> ,
+    element:<><Nav/> <Portfoliopage /> <Footer/></>,
   },
   {
     path: "/blog/How-i-learned-both-JavaScript-and-German-at-the-same-time",
     element:<><Nav/> <Blogpost /> <Footer/></>,
-    errorElement:<><Nav/><Nopage/><Footer/></> ,
+  },         
+  {
+    path: "/blog/How-to-be-a-Shopify-developer",
+    element:<><Nav/> <Post1 /> <Footer/></>,
+  },
+  {
+    path: "/blog/headless-ecommerce-with-Shopify",
+    element:<><Nav/> <Post2 /> <Footer/></>,
   },
   
   
