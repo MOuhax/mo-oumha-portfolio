@@ -117,7 +117,7 @@ function Portfoliodata() {
                                     <span>Express.js</span>
 
                                 </div>
-                                <p>Connecting remote developers with founders anywhere in the world
+                                <p>lorem lorem lorem world
                                 </p>
                             </div>
                         </div>
