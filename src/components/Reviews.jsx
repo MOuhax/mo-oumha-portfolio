@@ -9,7 +9,7 @@ function Reviews() {
         <div className="Reviews-section section" id="reviews">
             <div className="reviews-wrraper max-width">
                 <div className="title-wrraper">
-                    <h2> Client Reviews
+                    <h2> Client reviews
                     </h2>
                     <p>I’ve had the chance to work with some really great people, here’s some of the super nice things they’ve said about me and my work.
                     </p>

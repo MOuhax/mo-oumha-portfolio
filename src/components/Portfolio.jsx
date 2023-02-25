@@ -73,7 +73,7 @@ function Portfolio() {
                         <div className="portfolio-33 flex-30">
                             <div className="portfolio-list">
                                 <img src={customTheme} alt="" />
-                                <p className="p-title">➜ Custom Shopify theme for a brand
+                                <p className="p-title">➜ Custom Shopify theme
                                 </p>
                                 <div className="used-skill">
                                     <span>Shopify</span>

@@ -58,10 +58,10 @@ h3, h2 {
   -webkit-background-clip: text;
   background-clip: text;
   -webkit-text-fill-color: transparent;
- 
+  font-weight: 700;
 }
 .herobanner-wrraper h2 {
-    font-size: 40px;
+    font-size: 35px;
     @media screen and (max-width: 800px) {
       font-size: 30px;
     }

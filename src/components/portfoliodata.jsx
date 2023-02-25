@@ -47,10 +47,90 @@ function Portfoliodata() {
             <div className="portfolio-wrraper max-width">
                 <div>
                     <div className="title-wrraper">
+                        <h2>Under construction February</h2>
+                        <p>A small gallery of recent projects chosen by me. I’ve done them all together with amazing people from companies around the globe. It’s only a drop in the ocean compared to the entire list. Take a look at some of the my work</p>
+
+                    </div>
+
+                    <div className="portfolio-wrraper flex">
+                        <div className="portfolio-33 flex-30">
+                            <div className="portfolio-list">
+                                <img src={theme} alt="" />
+                                <p className="p-title">➜ Delivery app connected with Shopify
+                                </p>
+                                <div className="used-skill">
+                                    <span>REST API</span>
+                                    <span>React</span>
+                                    <span>Next.js</span>
+                                    <span>Tailwind CSS</span>
+
+                                </div>
+                                <p>Connecting remote developers with founders anywhere in the world
+                                </p>
+                            </div>
+                        </div>
+
+                        <div className="portfolio-33 flex-30">
+                            <div className="portfolio-list">
+                                <img src={customTheme} alt="" />
+                                <p className="p-title">➜ 3D product page 
+                                </p>
+                                <div className="used-skill">
+                                    <span>Shopify</span>
+                                    <span>Liquid</span>
+                                    <span>Javascript</span>
+                                    <span>Tailwind</span>
+                                    <span>HTML & SCSS</span>
+
+                                </div>
+                                <p>Connecting remote developers with founders anywhere in the world
+                                </p>
+                            </div>
+                        </div>
+
+                        <div className="portfolio-33  flex-30">
+                            <div className="portfolio-list">
+                                <img src={forum} alt="" />
+                                <p className="p-title">➜ Community forum Shopify app</p>
+                                <div className="used-skill">
+                                    <span>React</span>
+                                    <span>Node.js</span>
+                                    <span>Shopify APIs</span>
+                                    <span>MongoDB</span>
+                                    <span>Express.js</span>
+
+                                </div>
+                                <p>Connecting remote developers with founders anywhere in the world
+                                </p>
+                            </div>
+                        </div>
+
+                        <div className="portfolio-33  flex-30">
+                            <div className="portfolio-list">
+                                <img src={forum} alt="" />
+                                <p className="p-title">➜ Community forum Shopify app</p>
+                                <div className="used-skill">
+                                    <span>React</span>
+                                    <span>Node.js</span>
+                                    <span>Shopify APIs</span>
+                                    <span>MongoDB</span>
+                                    <span>Express.js</span>
+
+                                </div>
+                                <p>Connecting remote developers with founders anywhere in the world
+                                </p>
+                            </div>
+                        </div>
+
+                    </div>
+
+                    <div className="title-wrraper">
                         <h2>My work</h2>
                         <p>A small gallery of recent projects chosen by me. I’ve done them all together with amazing people from companies around the globe. It’s only a drop in the ocean compared to the entire list. Take a look at some of the my work</p>
 
                     </div>
+
+
                     <div className="portfolio-wrraper flex">
                         <div className="portfolio-33 flex-30">
                             <div className="portfolio-list">
@@ -106,9 +186,6 @@ function Portfoliodata() {
 
                     </div>
 
-
-
-
                     <div className="portfolio-wrraper flex">
                         <div className="portfolio-33 flex-30">
                             <div className="portfolio-list">
@@ -134,7 +211,7 @@ function Portfoliodata() {
                         <div className="portfolio-33 flex-30">
                             <div className="portfolio-list">
                                 <img src={landingPages} alt="" />
-                                <p className="p-title">➜ Ecommerce heigh converting sales pages
+                                <p className="p-title">➜ Ecommerce heigh converting sales pages 
                                 </p>
                                 <div className="used-skill">
                                     <span>HTML & SCSS</span>
@@ -652,6 +729,8 @@ function Portfoliodata() {
 
 
             </div>
+
+            
         </div>
     )
 }
