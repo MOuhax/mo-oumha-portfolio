@@ -154,9 +154,9 @@ function Portfolio() {
                             </div>
                         </div>
                     </div>
-                    <div className="center btn-container">
+                    {/* <div className="center btn-container">
                     <a href="/portfolio" className=" center secondary-button">More work</a>
-                </div>
+                </div> */}
 
 
 

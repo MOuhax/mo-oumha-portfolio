@@ -41,14 +41,14 @@ function Sideprojects() {
                         <div className="portfolio-33  flex-30">
                             <div className="sideprojects-list">
                                 <img src={youtube} alt="" />
-                                <p className="p-title">➜ Mo - remote dev youtube community
+                                <p className="p-title">➜ Mo - remote developer youtube community
                                 </p>
                                 <p>I do share Shopify content including custom Shopify and app developemnt , features, performance, and more...</p>
                                 <a href="https://www.youtube.com/@moremotedeveloper">Visite my channel</a>
                             </div>
                         </div>
 
-                        <div className="portfolio-33  flex-30">
+                        {/* <div className="portfolio-33  flex-30">
                             <div className="sideprojects-list">
                                 <img src={remotem} alt="" />
                                 <p className="p-title">➜ Code camp b'Darija
@@ -56,7 +56,7 @@ function Sideprojects() {
                                 <p>Learning web platform, an online community forum, chat rooms, online publications and content that intend to make learning web development accessible to anyone in Morocco. </p>
                                 <a href="#">Visite the project</a>
                             </div>
-                        </div>
+                        </div> */}
 
                     </div>
 

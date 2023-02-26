@@ -18,7 +18,8 @@ function Blog() {
 
                 </div>             
                 <div className="blog-wrraper flex">
-                    <div className="portfolio-33 flex-30">
+                  
+                    {/* <div className="portfolio-33 flex-30">
                         <div className="blog-list">
                             <img src={blog1} alt="" />
                             <p className="p-title">➜ How i learned both web development and German at the same time?
@@ -35,7 +36,7 @@ function Blog() {
 </p> <p> Headless commerce is a separation of the front end and back end of an ecommerce application. This architecture offers brands freedom of expression...
 </p><a href="/blog/headless-ecommerce-with-Shopify">Read the article</a>
                         </div>
-                    </div>
+                    </div> */}
 
                     <div className="portfolio-33  flex-30">
                         <div className="blog-list">
@@ -48,9 +49,9 @@ function Blog() {
                     </div>
 
                 </div> 
-                <div className="center btn-container">
+                {/* <div className="center btn-container">
                     <a href="/blog" className=" center secondary-button">More posts</a>
-                </div>
+                </div> */}
             </div>
 
            
