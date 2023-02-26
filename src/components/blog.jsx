@@ -44,7 +44,7 @@ function Blog() {
                             <p className="p-title">➜ How to be a Shopify developer ?</p>
                             <p>If you want to become a Shopify developer here is how you can do it
 </p>
-<a href="/blog/How-to-be-a-Shopify-developer">Read the article</a>
+<a href="https://dev.to/mouhax/how-to-be-a-shopify-developer--1683">Read the article</a>
                         </div>
                     </div>
 
