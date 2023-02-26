@@ -21,9 +21,9 @@ function Blog() {
                     <div className="portfolio-33 flex-30">
                         <div className="blog-list">
                             <img src={blog1} alt="" />
-                            <p className="p-title">➜ How i learned both JavaScript and German at the same time?
+                            <p className="p-title">➜ How i learned both web development and German at the same time?
 </p> <p>I started learning both human and machine languages at the same time and here is how i did it and what i have learned
-</p> <a href="/blog/How-i-learned-both-JavaScript-and-German-at-the-same-time">Read the article</a>
+</p> <a href="/blog/How-i-learned-both-web-development-and-German-at-the-same-time">Read the article</a>
                         </div>
                     </div>
 

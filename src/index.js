@@ -31,7 +31,7 @@ const router = createBrowserRouter ([
     element:<><Nav/> <Portfoliopage /> <Footer/></>,
   },
   {
-    path: "/blog/How-i-learned-both-JavaScript-and-German-at-the-same-time",
+    path: "/blog/How-i-learned-both-web-development-and-German-at-the-same-time",
     element:<><Nav/> <Blogpost /> <Footer/></>,
   },         
   {
