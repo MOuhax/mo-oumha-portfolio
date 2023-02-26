@@ -1,7 +1,7 @@
 import React from 'react'
 
 const Blogpost = () => {
-  return (
+  return ( 
     <div className="blogpost-section section post-container" id="blogpost">
     <div className="title-wrraper center">
                 <h2>How i learned both web development and German at the same time?
