@@ -20,7 +20,7 @@ function Reviews() {
                         <div className="Reviews-list">
                             <div className="review33">
                                 <p>"Mo was incredible to work with. His work was thorough, diligent, and done to the exact standards I wanted. I would be more than happy to work with him again"</p>
-                                <div bis_skin_checked="1">
+                                <div style={{display:  'grid'}}>
                                     <span>
                                         <img src={ client1} alt="" />
                                         
@@ -37,7 +37,7 @@ function Reviews() {
                         <div className="Reviews-list">
                             <div className="review33">
                                 <p>"Amazing development work and Shopify experience. Would highly recommend. Enjoyed working together, communication was great & we had a good working relationship"</p>
-                                <div bis_skin_checked="1">
+                                <div style={{display:  'grid'}}>
                                     <span>
                                         <img src={ client2} alt="" />
                                         
@@ -54,7 +54,7 @@ function Reviews() {
                         <div className="Reviews-list">
                             <div className="review33">
                                 <p>"You'll have a tough time finding someone with both skill and communication like Mo. We are super please with what Mo did for us and will be definitely use him for web design needs in the future."</p>
-                                <div bis_skin_checked="1">
+                                <div style={{display:  'grid'}}>
                                     <span>
                                         <img src={ client3} alt="" />
                                         

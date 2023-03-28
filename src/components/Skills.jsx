@@ -78,7 +78,7 @@ function Skills() {
                                 <li class="icon-list-item">
                                     <span class="icon-list-icon">
                                         <i aria-hidden="true" class="far fa-file-code"></i>						</span>
-                                    <span class="icon-list-text">MongoDb, PostgresSQL</span>
+                                    <span class="icon-list-text">MongoDb</span>
                                 </li>
                                 <li class="icon-list-item">
                                     <span class="icon-list-icon">

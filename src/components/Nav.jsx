@@ -1,9 +1,24 @@
-import React from "react";
+import React, { useState } from "react";
 
 import logo from "../Images/logo.png";
 
 import { Link, Outlet} from 'react-router-dom'
 function Nav() {
+
+const [nightmode, SetNightmode] = useState(true);
+
+
+function activateNightMode() {
+    const bodyClass = document.getElementById('appclass');
+    if (nightmode) {  
+        bodyClass.classList.add('nightmode');
+        SetNightmode(false);
+    }
+    else {
+        bodyClass.className = 'lightmode';
+        SetNightmode(true);
+    }
+}
     return (
         <div className="navsection  ">
             <div className="nav-wrraper max-width flex">
@@ -20,13 +35,18 @@ function Nav() {
                         <li><a href="/#projects">Projects</a></li>
                         <li>
                         <a href="/#blog">Blog</a>
-                        {/* <Link to="/blog">Blog</Link> */}
                         </li>
                         <li><a href="/#reviews">Reviews</a></li>
                       
                         <li><a href="/#contact">Contact</a></li>
+                        <li><button 
+                    className="nightmodebtn" 
+                    id="nightmodebtn"
+                    onClick={activateNightMode}
+                    > Night</button></li>
                     </ul>
                 </div>
+                
 
                 {/* <div className="buttonswrraper">
                     <div class="buttonsgroupe flex" bis_skin_checked="1">
