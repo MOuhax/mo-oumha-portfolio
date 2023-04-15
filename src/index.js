@@ -12,6 +12,8 @@ import Blogpost from './postes/Blogpost';
 import Post1 from './postes/post1';
 import Post2 from './postes/post2';
 
+import Portfoliodata from './components/Portfoliodata';
+
 
 import {createBrowserRouter,
 RouterProvider} from 'react-router-dom';
@@ -28,7 +30,7 @@ const router = createBrowserRouter ([
   },
   {
     path: "/portfolio",
-    element:<><Nav/> <Portfoliopage /> <Footer/></>,
+    element:<><Nav/> <Portfoliodata /> <Footer/></>,
   },
   {
     path: "/blog/How-i-learned-both-web-development-and-German-at-the-same-time",

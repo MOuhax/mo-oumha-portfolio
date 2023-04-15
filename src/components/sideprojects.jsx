@@ -1,13 +1,6 @@
 import React from "react";
-import work1 from "../Images/Mo-oumha-work1.jpg";
-import work2 from "../Images/Mo-oumha-work2.jpg";
-import theme from "../Images/shopify-theme.jpg";
-import project1 from "../Images/project1.jpg";
-import project2 from "../Images/project2.jpg";
-import project3 from "../Images/project3.jpg";
 
-import project4 from "../Images/project4.jpg";
-import project6 from "../Images/project6.jpg";
+import mypc from "../Images/mypc.jpg";
 import remotef from "../Images/remotef.jpg";
 
 import youtube from "../Images/project5.jpg";
@@ -40,11 +33,21 @@ function Sideprojects() {
 
                         <div className="portfolio-33  flex-30">
                             <div className="sideprojects-list">
+                                <img src={mypc} alt="" />
+                                <p className="p-title">➜ Mo - Dev++ (Development youtube channel)
+                                </p>
+                                <p>I do share dev content including Shopify developemnt, react, Js , features, performance, and more...</p>
+                                <a href="https://www.youtube.com/@moremotedeveloper">Visite my channel</a>
+                            </div>
+                        </div>
+
+                        <div className="portfolio-33  flex-30">
+                            <div className="sideprojects-list">
                                 <img src={youtube} alt="" />
-                                <p className="p-title">➜ Mo - remote developer youtube community
+                                <p className="p-title">➜ MERNT Sheet cheat 
                                 </p>
                                 <p>I do share Shopify content including custom Shopify and app developemnt , features, performance, and more...</p>
-                                <a href="https://www.youtube.com/@moremotedeveloper">Visite my channel</a>
+                                <a href="https://www.youtube.com/@moremotedeveloper">Visite the project</a>
                             </div>
                         </div>
 
