@@ -44,10 +44,10 @@ function Sideprojects() {
                         <div className="portfolio-33  flex-30">
                             <div className="sideprojects-list">
                                 <img src={youtube} alt="" />
-                                <p className="p-title">➜ MERNT Sheet cheat 
+                                <p className="p-title">➜ Shopify app for onlines stores 
                                 </p>
-                                <p>I do share Shopify content including custom Shopify and app developemnt , features, performance, and more...</p>
-                                <a href="https://www.youtube.com/@moremotedeveloper">Visite the project</a>
+                                <p>Community forms solution for shopify stores and communities</p>
+                                <a href="#">Visite the project</a>
                             </div>
                         </div>
 
